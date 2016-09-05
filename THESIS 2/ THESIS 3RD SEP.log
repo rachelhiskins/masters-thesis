@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.7-u1.21-160201-2.6 (utf8.uptex) (TeX Live 2016) (preloaded format=uplatex 2016.9.1)  3 SEP 2016 19:52
+This is e-upTeX, Version 3.14159265-p3.7-u1.21-160201-2.6 (utf8.uptex) (TeX Live 2016) (preloaded format=uplatex 2016.9.1)  5 SEP 2016 22:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -421,22 +421,22 @@ Writing index file " THESIS 3RD SEP".idx
 (./ THESIS 3RD SEP.aux)
 \openout1 = `" THESIS 3RD SEP.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: dvips
@@ -473,112 +473,156 @@ LaTeX Font Info:    ... okay on input line 16.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 16.62714pt on input line 19.
+(Font)              scaled to size 16.62714pt on input line 22.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 16.62714pt on input line 19.
+(Font)              scaled to size 16.62714pt on input line 22.
 LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
-(Font)              scaled to size 24.88324pt on input line 19.
+(Font)              scaled to size 24.88324pt on input line 22.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 23.94002pt on input line 19.
+(Font)              scaled to size 23.94002pt on input line 22.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 23.94002pt on input line 19.
+(Font)              scaled to size 23.94002pt on input line 22.
 LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
-(Font)              scaled to size 35.82726pt on input line 19.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 19.
+(Font)              scaled to size 35.82726pt on input line 22.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 22.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 19.
+(Font)              scaled to size 11.54663pt on input line 22.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 19.
+(Font)              scaled to size 11.54663pt on input line 22.
 LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
-(Font)              scaled to size 17.28003pt on input line 19.
+(Font)              scaled to size 17.28003pt on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 19.
+(Font)              <12> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 19.
+(Font)              <8> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 19.
+(Font)              <6> on input line 22.
  [1
 
 
 
 ]
-LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT2/gt/m/n' tried instead on input line 25.
+(../chapters/2-Introduction.tex [2
+
+]
+Chapter 1.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 19.95642pt on input line 1.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 19.95642pt on input line 1.
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <20.74> not available
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 25.
-LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY2/gt/m/n' tried instead on input line 25.
+(Font)              scaled to size 19.95642pt on input line 1.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <20.74> not available
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 25.
-
-Overfull \hbox (466.78474pt too wide) in paragraph at lines 26--26
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--26
-
- []
-
-(../chapters/2-Introduction.tex
-File: ../eps/FIRST_ABSTRACT_PAINTING.eps Graphic file (type eps)
- <../eps/FIRST_ABSTRACT_PAINTING.eps>
-Overfull \hbox (288.13063pt too wide) in paragraph at lines 15--16
-[][] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+(Font)              scaled to size 19.95642pt on input line 1.
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <24.88> not available
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 23.94002pt on input line 1.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <24.88> not available
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 23.94002pt on input line 1.
+File: ../eps/babymandala_1.eps Graphic file (type eps)
+<../eps/babymandala_1.eps> [3]
 
 LaTeX Font Warning: Font shape `JT2/mc/m/sl' undefined
-(Font)              using `JT2/mc/m/n' instead on input line 18.
+(Font)              using `JT2/mc/m/n' instead on input line 15.
 
 
 LaTeX Font Warning: Font shape `JY2/mc/m/sl' undefined
-(Font)              using `JY2/mc/m/n' instead on input line 18.
+(Font)              using `JY2/mc/m/n' instead on input line 15.
 
-[2]
-Overfull \vbox (486.60374pt too high) has occurred while \output is active []
-
+[4]
+File: ../eps/FIRST_ABSTRACT_PAINTING.eps Graphic file (type eps)
+ <../eps/FIRST_ABSTRACT_PAINTING.eps>
 LaTeX Font Info:    Font shape `JT2/mc/m/sl' will be
-(Font)              scaled to size 9.6222pt on input line 18.
+(Font)              scaled to size 9.6222pt on input line 30.
 LaTeX Font Info:    Font shape `JY2/mc/m/sl' will be
-(Font)              scaled to size 9.6222pt on input line 18.
-
-[3]
-Underfull \vbox (badness 1824) has occurred while \output is active []
-
- [4])
-(../chapters/3-Background.tex [5]
-Underfull \vbox (badness 6173) has occurred while \output is active []
+(Font)              scaled to size 9.6222pt on input line 30.
+ [5]
+File: ../eps/face.eps Graphic file (type eps)
+ <../eps/face.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 41.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 13.85594pt on input line 47.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 13.85594pt on input line 47.
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 47.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 13.85594pt on input line 47.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 47.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 13.85594pt on input line 47.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 51.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 41.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 51.
  [7])
-(../chapters/4_Methods_and_Methodology.tex [8] [9] [10] [11]) [12]
-(./ THESIS 3RD SEP.aux)
+(../chapters/3-Background.tex [8]
+Chapter 2.
+[9
+
+]
+File: ../eps/In_through_the_background.eps Graphic file (type eps)
+ <../eps/In_through_the_background.eps> [10]
+File: ../eps/2005_m.eps Graphic file (type eps)
+ <../eps/2005_m.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11] [12]
+File: ../eps/My_rug_.eps Graphic file (type eps)
+ <../eps/My_rug_.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13])
+(../chapters/4_Methods_and_Methodology.tex [14]
+Chapter 3.
+[15
+
+] [16] [17] [18] [19]
+File: ../eps/My_allignment_and_shoes.eps Graphic file (type eps)
+ <../eps/My_allignment_and_shoes.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[20]
+
+LaTeX Warning: Text page 21 contains only floats.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21])
+[22] (./ THESIS 3RD SEP.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 1685 strings out of 493689
- 20719 string characters out of 6149982
- 88097 words of memory out of 5000000
- 5235 multiletter control sequences out of 15000+600000
- 13660 words of font info for 52 fonts, out of 8000000 for 9000
+ 1724 strings out of 493689
+ 21329 string characters out of 6149982
+ 87097 words of memory out of 5000000
+ 5264 multiletter control sequences out of 15000+600000
+ 18106 words of font info for 66 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 25i,6n,32p,1117b,287s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 25i,6n,32p,1115b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on " THESIS 3RD SEP.dvi" (12 pages, 27388 bytes).
+Output written on " THESIS 3RD SEP.dvi" (22 pages, 28820 bytes).

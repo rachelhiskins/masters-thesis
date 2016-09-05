@@ -3,7 +3,7 @@ Methods and Methodology
 
 FIGURE 1-DOUBLE EXPOSURE WITH MY EYE AND MANDALA
 
-The power of an image is that it embodies the complexity of what we see, feel and think but cannot literally describe in words.Ó Tufnell and Crickmay, pÉ.(2004)
+The power of an image is that it embodies the complexity of what we see, feel and think but cannot literally describe in words. Tufnell and Crickmay, p.(2004)
 
 
 As you have already read, my research inquiry starts with my passion for drawing mandalas and I inquire into the journey of what I have come to know through this process. 
@@ -80,25 +80,58 @@ The procedures I used in creating and making my own mandalas are the following:
 
 After drawing the 6 mandalas, I remained attuned and aware to the slightest changes within me. I sat with all my personal data to deliberately amplify its content to come up with the themes and topics which arose. I also kept generating more data as the year went on through keeping a mandala diary. 
 Additionally, I added these procedures to the mix: 
-* Reduction to what is important 
-* Essence key words/images
-* Clustering key words
-* Designing and getting a tattoo
-* 'I' poems- An 'I'poem is the process where a piece of text is underlined only with the I and the accompanying word. This highlights associative stream of consciousness carried by the first person and how the writer speaks about themselves. (Gilligan, spencer, Weinberg, Bertsch 2006). On the listening guide- A voice-centred relational methods, Gilligan, spencer, Weinberg, Bertsch 2006, Sage publications
+\begin{itemize}
+\item Reduction to what is important 
+\end{itemize}
+
+\begin{itemize}
+\item Essence key words/images
+\end{itemize}
+
+\begin{itemize}
+\item Clustering key words
+\end{itemize}
+
+\begin{itemize}
+\item Designing and getting a tattoo
+\end{itemize}
+
+\begin{itemize}
+\item  'I' poems- An 'I'poem is the process where a piece of text is underlined only with the I and the accompanying word. This highlights associative stream of consciousness carried by the first person and how the writer speaks about themselves. (Gilligan, spencer, Weinberg, Bertsch 2006). On the listening guide- A voice-centred relational methods, Gilligan, spencer, Weinberg, Bertsch 2006, Sage publications
+\end{itemize}
 
 Within the process of my own work and companioning others, the following procedures are adapted to the context and situations. They are as follows:
-* Description- where one is descriptive and states what can be seen in basic terms 
-* ISR- (Intersubjective response)- a response offered to the other
-* Clustering- grouping together images and words which fit together
-* Representations- can be expressed through using many art modality art forms
-* Reduction- reducing large images and text to key words and images 
-* Bracketing- where we bracket in and out our own thoughts, as well as being aware of our own feelings and sensations only sharing with the other what is helpful and appropriate
-* Accessing to experiencing- We can sense or be aware of our less conscious states along with conscious parts through accessing our experiences through connecting to our emotions, thoughts, sensations, imagery, memories, smell, visualisations, bodily sensations and feelings
+
+\begin{itemize}
+\item Description- where one is descriptive and states what can be seen in basic terms 
+\end{itemize}
+
+\begin{itemize}
+\item ISR- (Intersubjective response)- a response offered to the other
+\end{itemize}
+
+\begin{itemize}
+\item Clustering- grouping together images and words which fit together
+\end{itemize}
+
+\begin{itemize}
+\item Representations- can be expressed through using many art modality art forms
+\end{itemize}
+
+\begin{itemize}
+\item Reduction- reducing large images and text to key words and images 
+\end{itemize}
+
+\begin{itemize}
+\item Bracketing- where we bracket in and out our own thoughts, as well as being aware of our own feelings and sensations only sharing with the other what is helpful and appropriate
+\end{itemize}
+
+\begin{itemize}
+\item Accessing to experiencing- We can sense or be aware of our less conscious states along with conscious parts through accessing our experiences through connecting to our emotions, thoughts, sensations, imagery, memories, smell, visualisations, bodily sensations and feelings
+\end{itemize}
+
 Maps
 The following are mind maps of the steps and procedures I took:
-
-
-
 
 Paradigm alignment
 
